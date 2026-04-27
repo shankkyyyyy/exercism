@@ -17,6 +17,7 @@ uint64_t square(uint8_t index)
     }
     return value;
 }
+
 uint64_t total(void)
 {
     uint64_t value;
